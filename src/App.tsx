@@ -25,7 +25,7 @@ const App = () => (
       <TooltipProvider>
         <Toaster />
         <Sonner />
-        <BrowserRouter basename="/edu-boost-path">
+        <BrowserRouter basename="/futureforge-nexus">
           <Routes>
             <Route path="/" element={<Index />} />
             <Route path="/about" element={<About />} />
