@@ -5,15 +5,15 @@ import Footer from "@/components/Footer";
 const team = [
   {
     name: "Md Faraz Alam",
-    role: "Co-Founder & CEO",
+    role: "Founder & CEO",
     email: "alamfaraz028@gmail.com",
     image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Faraz"
   },
   {
-    name: "Md Mohsin Ansari",
-    role: "Co-Founder & CTO",
-    email: "mohsin@nexus.edu",
-    image: "https://api.dicebear.com/7.x/avataaars/svg?seed=Mohsin"
+    name: "Md Amir Kamal ",
+    role: "CTO",
+    email: "m.amir.k279@gmail.com",
+    image: "https://api.dicebear.com/6.x/avataaars/svg?seed=MD"
   }
 ];
 
